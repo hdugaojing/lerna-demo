@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.1",
+    "@colin-mono-test/cli-shared-utils": "^0.0.1",
     "chalk": "^4.1.0"
   },
   "gitHead": "b6f9140aec80d64d5602f173d2e811d52d50acde"

@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://npm.intsig.net"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -23,5 +23,5 @@
     "chalk": "^4.1.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "d0e5cd9338f9502c53016ef87903b612e5b44600"
+  "gitHead": "b6f9140aec80d64d5602f173d2e811d52d50acde"
 }

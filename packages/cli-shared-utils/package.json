@@ -1,5 +1,5 @@
 {
-  "name": "@mo-demo/cli-shared-utils",
+  "name": "@colin-mono-test/cli-shared-utils",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Colin <jing_gao@intsig.net>",
@@ -22,5 +22,6 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "semver": "^7.3.5"
-  }
+  },
+  "gitHead": "d0e5cd9338f9502c53016ef87903b612e5b44600"
 }
